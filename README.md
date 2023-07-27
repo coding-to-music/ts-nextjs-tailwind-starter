@@ -1,3 +1,29 @@
+# ts-nextjs-tailwind-starter
+
+# 🚀 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features 🚀
+
+https://github.com/coding-to-music/ts-nextjs-tailwind-starter
+
+From / By https://github.com/theodorusclarence/ts-nextjs-tailwind-starter
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/ts-nextjs-tailwind-starter.git
+git push -u origin main
+```
+
 # Next.js + Tailwind CSS + TypeScript Starter and Boilerplate
 
 <div align="center">
